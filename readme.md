@@ -1,5 +1,7 @@
 # Godot Add-on Example
 
+Based in [Making plugins](http://docs.godotengine.org/en/3.0/tutorials/plugins/editor/making_plugins.html).
+
 ## Instructions
 
 ### Template Files 
