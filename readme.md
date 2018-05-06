@@ -1,6 +1,6 @@
 # Godot Add-on Example
 
-Based in [Making plugins](http://docs.godotengine.org/en/3.0/tutorials/plugins/editor/making_plugins.html).
+Based in [Making plugins](http://docs.godotengine.org/en/2.1/development/plugins/making_plugins.html).
 
 ## Instructions
 
