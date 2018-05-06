@@ -1,0 +1,26 @@
+[gd_scene load_steps=3 format=1]
+
+[ext_resource path="res://addons/my_custom_node/button.gd" type="Script" id=1]
+[ext_resource path="res://addons/my_custom_node/icon.png" type="Texture" id=2]
+
+[node name="MyButton" type="Button"]
+
+focus/ignore_mouse = false
+focus/stop_mouse = true
+size_flags/horizontal = 2
+size_flags/vertical = 2
+margin/left = 97.0
+margin/top = 64.0
+margin/right = 109.0
+margin/bottom = 84.0
+toggle_mode = false
+enabled_focus_mode = 2
+shortcut = null
+text = "jkljlkjkl"
+flat = false
+script/script = ExtResource( 1 )
+__meta__ = {
+"_editor_icon": ExtResource( 2 )
+}
+
+
